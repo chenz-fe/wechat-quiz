@@ -14,7 +14,7 @@
     "axios": "^0.18.0",
     "core-js": "^2.6.5",
     "cube-ui": "^1.12.19",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "koa-jwt": "^3.5.1",
     "vue": "^2.6.10"
   },
